@@ -16,9 +16,5 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-<<<<<<< HEAD
-=======
-lighthouse ci test
->>>>>>> 5d9307954b194ff429eb660143d4f9b4a3bca3cd
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
