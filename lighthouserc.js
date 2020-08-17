@@ -11,7 +11,8 @@ module.exports = {
       'categories:seo': ['error', { minScore: 0.9 }]
     },
     upload: {
-      target: 'filesystem'
+      target: 'filesystem',
+      outputDir: './lighthouse-results'
     }
   }
 }
