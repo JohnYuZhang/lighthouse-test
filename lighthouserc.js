@@ -13,8 +13,7 @@ module.exports = {
       'interactive': ['error',  { maxNumericValue: 5000}]
     },
     upload: {
-      target: 'filesystem',
-      outputDir: './lighthouse-results'
+      target: 'temporary-public-storage'
     }
   }
 }
