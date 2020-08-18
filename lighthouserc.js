@@ -13,7 +13,7 @@ module.exports = {
       'interactive': ['error',  { maxNumericValue: 5000}]
     },
     upload: {
-      target: 'temporary-public-storage',
+      target: 'temporary-public-storage'
     }
   }
 }
