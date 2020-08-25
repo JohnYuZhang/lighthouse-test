@@ -15,7 +15,7 @@ module.exports = {
       }
     },
     upload: {
-      target: 'temporary-public-storage'
+      target: 'https://infinite-refuge-93024.herokuapp.com'
     }
   }
 }
