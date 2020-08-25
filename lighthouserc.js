@@ -15,7 +15,9 @@ module.exports = {
       }
     },
     upload: {
-      target: 'temporary-public-storage'
+      target: 'lhci',
+      serverBaseURL: 'https://infinite-refuge-93024.herokuapp.com',
+      // token: '7c02ce69-4c29-4436-ba2c-ca26d12bfd8f'
     }
   }
 }
