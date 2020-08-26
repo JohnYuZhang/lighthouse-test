@@ -16,7 +16,7 @@ module.exports = {
     },
     upload: {
       target: 'lhci',
-      serverBaseURL: 'http://infinite-refuge-93024.herokuapp.com/app/',
+      serverBaseURL: 'http://infinite-refuge-93024.herokuapp.com/',
       token: '7c02ce69-4c29-4436-ba2c-ca26d12bfd8f'
     }
   }
