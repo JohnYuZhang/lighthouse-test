@@ -1,6 +1,8 @@
 <template>
+
   <div class="container">
     <div>
+    test
       <Logo />
       <h1 class="title">
         test
